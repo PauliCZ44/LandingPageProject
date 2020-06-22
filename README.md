@@ -1,2 +1,2 @@
-# landingpage.github.io
+# landingpage project
 Project from freecodecamp
